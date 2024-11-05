@@ -1,20 +1,20 @@
-title = "hugo-porto"
+title = "データ可視化の基本が全部わかる本"
 # logo  = "img/logo.svg"
 
 [[menu]]
-  text        = "Home"
-  description = "Welcome to my personal website"
+  text        = "トップ"
+  description = "トップページへ戻ります"
   link        = "/"
   target      = "_self"
 
 [[menu]]
-  text        = "Posts"
-  description = "Read my latest posts"
-  link        = "/posts"
+  text        = "目次"
+  description = "目次一覧を確認ください"
+  link        = "/posts/table-of-contents"
   target      = "_self"
 
 [button]
   enabled = true
-  text    = "Get my CV"
-  link    = "files/cv.pdf"
+  text    = "Amazonで購入する"
+  link    = "https://www.amazon.co.jp/gp/product/4798183687"
   target  = "_blank"
