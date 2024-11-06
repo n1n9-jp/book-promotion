@@ -1,5 +1,5 @@
 [[section]]
-  id      = "hero"
+  id      = "custom"
   enabled = true
   weight  = 1
 
@@ -12,11 +12,6 @@
   id      = "experience"
   enabled = true
   weight  = 3
-
-[[section]]
-  id      = "custom"
-  enabled = true
-  weight  = 4
 
 [[section]]
   id      = "education"
