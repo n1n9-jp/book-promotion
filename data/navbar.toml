@@ -1,5 +1,5 @@
 title = "データ可視化の基本が全部わかる本"
-# logo  = "img/logo.svg"
+logo  = "img/logo_visualizing.png"
 
 [[menu]]
   text        = "目次"
