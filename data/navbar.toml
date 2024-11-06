@@ -2,12 +2,6 @@ title = "データ可視化の基本が全部わかる本"
 # logo  = "img/logo.svg"
 
 [[menu]]
-  text        = "トップ"
-  description = "トップページへ戻ります"
-  link        = "/"
-  target      = "_self"
-
-[[menu]]
   text        = "目次"
   description = "目次一覧を確認ください"
   link        = "/posts/table-of-contents"
