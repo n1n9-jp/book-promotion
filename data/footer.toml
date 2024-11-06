@@ -1,21 +1,13 @@
-# copyright = "© 2023-2024 John Doe. All rights reserved."  
+# copyright = "©Yuichi Yazaki"  
 
 [[social]]
-  type = "linkedin"
-  id   = "johndoe"
-
-[[social]]
-  type = "github"
-  id   = "johndoe"
+  type = "twitter"
+  id   = "yuichy02"
 
 [[social]]
   type = "facebook"
-  id   = "johndoe"
+  id   = "yuichi.yazaki"
 
 [[social]]
-  type = "telegram"
-  id   = "johndoe"
-
-[[social]]
-  type = "whatsapp"
-  id   = "+1234567890"
+  type = "linkedin"
+  id   = "yuichiyazaki"
