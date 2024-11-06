@@ -1,5 +1,5 @@
 baseURL      = 'https://hugo-porto.netlify.app/'
-languageCode = 'en-us'
+languageCode = 'ja-jp'
 title        = 'My New Hugo Site'
 
 
@@ -8,7 +8,7 @@ title        = 'My New Hugo Site'
   keywords    = "John Doe, personal website, blog, portfolio"
 
   [params.author]
-    name = 'John Doe'
+    name = 'Yuichi Yazaki'
 
 
 # Add theme using Hugo modules
